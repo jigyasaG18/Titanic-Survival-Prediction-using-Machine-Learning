@@ -197,5 +197,3 @@ This project blends **Data Science**, **theoretical inspiration**, and **user-fr
 It demonstrates how prediction emerges from structure — just as physical reality may arise from deeper hidden dimensions.
 
 ---
-
-Would you like any of those?
